@@ -9,3 +9,4 @@ evaluations/
 moulinette/
 *.pdf
 *.lock
+.claude
